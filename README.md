@@ -7,8 +7,8 @@ First of all, this project structure is heavily inspired by [cookiecutter-django
 
 
 ## What you will get
-- Django 2.0.1
-- Django REST Framework 3.6.3
+- Django 2.2.5
+- Django REST Framework 3.10.3
 - Pre-configuration with PostgreSQL
 - Multiple settings for local development and production
 
